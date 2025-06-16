@@ -1,0 +1,12 @@
+{
+  "import": [
+    "tonyfettes/uv/async",
+    "TheWaWaR/clap",
+    "tonyfettes/encoding",
+    {
+      "path": "Lampese/moonbit-chalk",
+      "alias": "chalk"
+    }
+  ],
+  "is-main": true
+}
